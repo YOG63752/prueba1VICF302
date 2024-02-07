@@ -63,3 +63,4 @@ Ejemplos:
                                          los compartimientos.
     > ipconfig /allcompartments /all ... Muestra informaci¢n detallada sobre
                                          todos los compartimientos
+"# prueba1VICF302" 
